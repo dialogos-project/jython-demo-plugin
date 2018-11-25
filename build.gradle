@@ -10,7 +10,7 @@ repositories {
 }
 
 dependencies {
-  implementation 'com.github.dialogos-project:jython_plugin:1.0'
+  implementation 'com.github.dialogos-project:jython-plugin:1.0'
 //  implementation 'org.python:jython-standalone:2.7.1'
 //  implementation(group:'com.github.dialogos-project', name:'dialogos',  version:'v2.0.1')
 
